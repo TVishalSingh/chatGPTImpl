@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<style name="Theme.LUIHandsfreeWithOpenAI" parent="Theme.Material.Settings.Dialog.Presentation" />-->
+    <style name="Theme.LUIHandsfreeWithOpenAI" parent="Theme.AppCompat.Light.DarkActionBar"/>
+</resources>
